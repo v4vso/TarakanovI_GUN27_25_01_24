@@ -1,0 +1,14 @@
+C:\Users\sigma\Desktop\TarakanovI_GUN27_25_01_24\HomeWork_25_01_24\bin\Debug\net6.0\HomeWork_25_01_24.exe
+C:\Users\sigma\Desktop\TarakanovI_GUN27_25_01_24\HomeWork_25_01_24\bin\Debug\net6.0\HomeWork_25_01_24.deps.json
+C:\Users\sigma\Desktop\TarakanovI_GUN27_25_01_24\HomeWork_25_01_24\bin\Debug\net6.0\HomeWork_25_01_24.runtimeconfig.json
+C:\Users\sigma\Desktop\TarakanovI_GUN27_25_01_24\HomeWork_25_01_24\bin\Debug\net6.0\HomeWork_25_01_24.dll
+C:\Users\sigma\Desktop\TarakanovI_GUN27_25_01_24\HomeWork_25_01_24\bin\Debug\net6.0\HomeWork_25_01_24.pdb
+C:\Users\sigma\Desktop\TarakanovI_GUN27_25_01_24\HomeWork_25_01_24\obj\Debug\net6.0\HomeWork_25_01_24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sigma\Desktop\TarakanovI_GUN27_25_01_24\HomeWork_25_01_24\obj\Debug\net6.0\HomeWork_25_01_24.AssemblyInfoInputs.cache
+C:\Users\sigma\Desktop\TarakanovI_GUN27_25_01_24\HomeWork_25_01_24\obj\Debug\net6.0\HomeWork_25_01_24.AssemblyInfo.cs
+C:\Users\sigma\Desktop\TarakanovI_GUN27_25_01_24\HomeWork_25_01_24\obj\Debug\net6.0\HomeWork_25_01_24.csproj.CoreCompileInputs.cache
+C:\Users\sigma\Desktop\TarakanovI_GUN27_25_01_24\HomeWork_25_01_24\obj\Debug\net6.0\HomeWork_25_01_24.dll
+C:\Users\sigma\Desktop\TarakanovI_GUN27_25_01_24\HomeWork_25_01_24\obj\Debug\net6.0\refint\HomeWork_25_01_24.dll
+C:\Users\sigma\Desktop\TarakanovI_GUN27_25_01_24\HomeWork_25_01_24\obj\Debug\net6.0\HomeWork_25_01_24.pdb
+C:\Users\sigma\Desktop\TarakanovI_GUN27_25_01_24\HomeWork_25_01_24\obj\Debug\net6.0\HomeWork_25_01_24.genruntimeconfig.cache
+C:\Users\sigma\Desktop\TarakanovI_GUN27_25_01_24\HomeWork_25_01_24\obj\Debug\net6.0\ref\HomeWork_25_01_24.dll
